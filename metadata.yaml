@@ -1,0 +1,28 @@
+_repo: The-Symbolism-of-Freemasonry--13-Illustrating-and-Explaining-Its-Science-and-Philosophy-Its-L__11937
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mackey, Albert Gallatin
+    aliases:
+    - Mackey, Albert G. (Albert Gallatin)
+    - Mackey, A. G. (Albert Gallatin)
+    birthdate: 1807
+    deathdate: 1881
+    gutenberg_agent_id: '4142'
+    url: http://www.gutenberg.org/2009/agents/4142
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HS'
+- !lcsh 'Freemasonry -- Symbolism'
+- GITenberg
+title: "The Symbolism of Freemasonry\r\nIllustrating and Explaining Its Science and\
+  \ Philosophy, Its Legends, Myths and Symbols"
+url: http://www.gutenberg.org/ebooks/11937
